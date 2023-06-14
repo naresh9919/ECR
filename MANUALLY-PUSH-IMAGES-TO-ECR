@@ -1,7 +1,7 @@
-# MANUALLY PUSH IMAGES TO ECR
+MANUALLY PUSH IMAGES TO ECR
 
-# Install Jenkins
-#Install docker
+Install Jenkins
+Install docker
 Install AWS CLI
 
 CREATE IAM USER
